@@ -1,0 +1,10 @@
+{
+    "name": "gvlasov/valigara-test-task",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
