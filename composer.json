@@ -6,5 +6,8 @@
             "App\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "guzzlehttp/guzzle": "^7.7",
+        "lstrojny/functional-php": "^1.17"
+    }
 }
